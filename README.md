@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👩‍💻 whoami --harshita-mp
 
-<!--
-**harshita-mp/harshita-mp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me:
+💻 | M.S. Computer Science @ Case Western Reserve University (CWRU) <br />
+🎓 | Graduating May 2026 <br />
+⚙️ | Interested in scalable systems, data platforms, and practical AI applications <br /><br />
 
-Here are some ideas to get you started:
+#### 🛠 Currently building:
+🔖 | Urban Stress Intelligence Platform — building scalable data pipelines to integrate public datasets and analyze infrastructure and public safety signals <br /><br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Reach me:
+🖇️ | harshita.jobs04@gmail.com <br />
+🖇️ | https://www.linkedin.com/in/harshita-m-p-/
