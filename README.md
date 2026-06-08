@@ -2,12 +2,13 @@
 
 #### About me:
 💻 | M.S. Computer Science @ Case Western Reserve University (CWRU) <br />
-🎓 | Graduating May 2026 <br />
-⚙️ | Interested in scalable systems, distributed computing, and practical AI applications <br /><br />
+🎓 | Graduated May 2026 <br />
+⚙️ | I build data pipelines, backend systems, and AI retrieval tools <br /><br />
 
 #### 🛠 Currently building:
-🔖 | Urban Stress Intelligence Platform — building scalable data pipelines that integrate large public datasets to surface infrastructure and public safety signals <br /><br />
+🔖 | NeuralStack — an end-to-end RAG pipeline for semantic search over ArXiv ML papers using LangChain, n8n, and Pinecone <br /><br />
 
 #### 📫 Reach me:
 🖇️ | harshita.jobs04@gmail.com <br />
 🖇️ | https://www.linkedin.com/in/harshita-m-p-/
+
