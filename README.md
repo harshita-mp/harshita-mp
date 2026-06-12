@@ -6,7 +6,7 @@
 ⚙️ | I build data pipelines, backend systems, and AI retrieval tools <br /><br />
 
 #### 🛠 Currently building:
-🔖 | NeuralStack — an end-to-end RAG pipeline for semantic search over ArXiv ML papers using LangChain, n8n, and Pinecone <br /><br />
+🔖 | NeuralStack — an end-to-end RAG pipeline with hybrid retrieval over ArXiv ML papers using LangChain, n8n, and Pinecone <br /><br />
 
 #### 📫 Reach me:
 🖇️ | harshita.jobs04@gmail.com <br />
